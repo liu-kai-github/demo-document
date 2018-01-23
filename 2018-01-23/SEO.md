@@ -97,6 +97,6 @@
 
 1. haozhanye 比 nicezhuanye 更容易让用户记住
 2. nicezhuanye 半中半英，不太符合中文网址习惯
-3. 网址应尽量简短 如：饿了么（https://www.ele.me），北京58（http://bj.58.com/），京东（https://www.jd.com）...
+3. 网址应尽量简短 如：饿了么（[https://www.ele.me](https://www.ele.me)），北京58（[http://bj.58.com/](http://bj.58.com/)），京东（[https://www.jd.com](https://www.jd.com)）...
 
 ## 非开发优化
